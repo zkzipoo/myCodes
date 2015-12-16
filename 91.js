@@ -4,6 +4,7 @@
  * @update  2015-04-25 16:26:53
  * @version 1.2
  * javascript:void(function(u,s)%7Bs%3Ddocument.body.appendChild(document.createElement(%27script%27))%3Bs.src%3Du%2B%27%3Fts%3D%27%2BDate.now()%3Bs.charset%3D%27UTF-8%27%7D(%27http://fulicdn.qiniudn.com/91p.js%27))
+ * javascript:void(function(u,s)%7Bs%3Ddocument.body.appendChild(document.createElement(%27script%27))%3Bs.src%3Du%2B%27%3Fts%3D%27%2BDate.now()%3Bs.charset%3D%27UTF-8%27%7D(%27https://rawgit.com/zkzipoo/myCodes/master/91.js%27))
  */
 
 (function(){
